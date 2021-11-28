@@ -1,1 +1,1 @@
-# Pushfy
+![Pushfy](/images/banner_transparent.png)
