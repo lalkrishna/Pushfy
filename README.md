@@ -1,4 +1,4 @@
-![Pushfy](/images/banner.png)
+![Pushfy](https://lh3.googleusercontent.com/d/1iJtV8KpGrhcX3be6dGaxk2yrtXU7blkt)
 
 
 ## Features
